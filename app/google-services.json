@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387444320297",
+    "project_id": "quiz-9d821",
+    "storage_bucket": "quiz-9d821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387444320297:android:79d686f599ab97918f5438",
+        "android_client_info": {
+          "package_name": "www.sahilkumar.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387444320297-co0n8plhu4usifdt8n65u9lu9or4ch1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCcFvvqDpJPhfAdfAwQXb6ZUqm-p1bNMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387444320297-co0n8plhu4usifdt8n65u9lu9or4ch1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
